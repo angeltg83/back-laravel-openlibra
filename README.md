@@ -1,5 +1,7 @@
 ## Instalación
-Descargarse el proyecto y ejecutar #composer install
+Descargarse el proyecto y ejecutar 
+
+**#composer install**
 luego ejecutar php artisan serve
 
 estas son las API desarrolladas
